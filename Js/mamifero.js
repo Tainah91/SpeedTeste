@@ -33,11 +33,11 @@ if(f==1){
 }else if(f==2){
     m.innerHTML = "mostro zumbi ficou sem os pés!"
 }else if(f==3){
-    m.innerHTML = "mostro zumbie sem a perna!"
+    m.innerHTML = "mostro zumbi sem a perna!"
 }else if(f==4){
-    m.innerHTML = "mostro zumbie sem os braços!"
+    m.innerHTML = "mostro zumbi sem os braços!"
 }else if(f==5){
-    m.innerHTML = "mostro zumbie perdeu a cabeça! Morreu!!!"
+    m.innerHTML = "mostro zumbi perdeu a cabeça! Morreu!!!"
 }
 
 }
